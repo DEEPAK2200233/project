@@ -202,8 +202,7 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 
 ## III) Perform object detection with label in an image
 
-![Uploading WhatsApp Image 2024-11-15 at 11.04.03_1e72a8f4.jpg…]()
-
+![WhatsApp Image 2024-11-15 at 11 04 03_a8cf2636](https://github.com/user-attachments/assets/a8de1547-acda-46c9-ab9e-408bbb6f172d)
 
 ## RESULT:
 Thus, The python program using OpenCV to do the image manipulations is executed successfully.
