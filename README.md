@@ -1,4 +1,6 @@
+# EX 12
 # project
+## DATE:
 ## Aim
 To write a python program using OpenCV to do the following image manipulations.
 i) Extract ROI from  an image.
